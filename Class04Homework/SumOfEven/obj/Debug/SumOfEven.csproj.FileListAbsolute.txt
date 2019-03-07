@@ -1,0 +1,7 @@
+C:\Users\UFRBLR\source\repos\Class04Homework\SumOfEven\bin\Debug\SumOfEven.exe.config
+C:\Users\UFRBLR\source\repos\Class04Homework\SumOfEven\bin\Debug\SumOfEven.exe
+C:\Users\UFRBLR\source\repos\Class04Homework\SumOfEven\bin\Debug\SumOfEven.pdb
+C:\Users\UFRBLR\source\repos\Class04Homework\SumOfEven\obj\Debug\SumOfEven.csprojAssemblyReference.cache
+C:\Users\UFRBLR\source\repos\Class04Homework\SumOfEven\obj\Debug\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\UFRBLR\source\repos\Class04Homework\SumOfEven\obj\Debug\SumOfEven.exe
+C:\Users\UFRBLR\source\repos\Class04Homework\SumOfEven\obj\Debug\SumOfEven.pdb

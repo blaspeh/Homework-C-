@@ -1,0 +1,7 @@
+C:\Users\UFRBLR\source\repos\Class04Homework\StudentGroup\bin\Debug\StudentGroup.exe.config
+C:\Users\UFRBLR\source\repos\Class04Homework\StudentGroup\bin\Debug\StudentGroup.exe
+C:\Users\UFRBLR\source\repos\Class04Homework\StudentGroup\bin\Debug\StudentGroup.pdb
+C:\Users\UFRBLR\source\repos\Class04Homework\StudentGroup\obj\Debug\StudentGroup.csprojAssemblyReference.cache
+C:\Users\UFRBLR\source\repos\Class04Homework\StudentGroup\obj\Debug\StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\UFRBLR\source\repos\Class04Homework\StudentGroup\obj\Debug\StudentGroup.exe
+C:\Users\UFRBLR\source\repos\Class04Homework\StudentGroup\obj\Debug\StudentGroup.pdb
