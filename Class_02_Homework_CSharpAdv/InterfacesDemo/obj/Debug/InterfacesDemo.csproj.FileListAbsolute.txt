@@ -1,0 +1,7 @@
+C:\Users\UFRBLR\source\repos\Class_02_Homework\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\UFRBLR\source\repos\Class_02_Homework\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\UFRBLR\source\repos\Class_02_Homework\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\UFRBLR\source\repos\Class_02_Homework\InterfacesDemo\obj\Debug\InterfacesDemo.csprojAssemblyReference.cache
+C:\Users\UFRBLR\source\repos\Class_02_Homework\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\UFRBLR\source\repos\Class_02_Homework\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\UFRBLR\source\repos\Class_02_Homework\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
