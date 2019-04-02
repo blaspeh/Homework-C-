@@ -1,0 +1,7 @@
+C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\bin\Debug\PalindromApp.exe.config
+C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\bin\Debug\PalindromApp.exe
+C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\bin\Debug\PalindromApp.pdb
+C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\obj\Debug\PalindromApp.csprojAssemblyReference.cache
+C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\obj\Debug\PalindromApp.csproj.CoreCompileInputs.cache
+C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\obj\Debug\PalindromApp.exe
+C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\obj\Debug\PalindromApp.pdb
