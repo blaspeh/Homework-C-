@@ -5,3 +5,10 @@ C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\obj\Debug\PalindromApp
 C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\obj\Debug\PalindromApp.csproj.CoreCompileInputs.cache
 C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\obj\Debug\PalindromApp.exe
 C:\Users\UFRBLR\source\repos\HomeworkClass03\PalindromApp\obj\Debug\PalindromApp.pdb
+G:\Akademija\C# Advance\Class_03_Homework_CSharpAdv\PalindromApp\bin\Debug\PalindromApp.exe.config
+G:\Akademija\C# Advance\Class_03_Homework_CSharpAdv\PalindromApp\bin\Debug\PalindromApp.exe
+G:\Akademija\C# Advance\Class_03_Homework_CSharpAdv\PalindromApp\bin\Debug\PalindromApp.pdb
+G:\Akademija\C# Advance\Class_03_Homework_CSharpAdv\PalindromApp\obj\Debug\PalindromApp.csprojAssemblyReference.cache
+G:\Akademija\C# Advance\Class_03_Homework_CSharpAdv\PalindromApp\obj\Debug\PalindromApp.csproj.CoreCompileInputs.cache
+G:\Akademija\C# Advance\Class_03_Homework_CSharpAdv\PalindromApp\obj\Debug\PalindromApp.exe
+G:\Akademija\C# Advance\Class_03_Homework_CSharpAdv\PalindromApp\obj\Debug\PalindromApp.pdb

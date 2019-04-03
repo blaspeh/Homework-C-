@@ -92,47 +92,47 @@ namespace PalindromApp
             return false;
         }
 
-    //    static int Reverse(int src)
-    //    {
-    //        int dst = 0;
-    //        int decPoint = 0;
+        static long Reverse(long src)
+        {
+            long dst = 0;
+            long decPoint = 0;
 
-    //        while (src - (long)src > 0)
-    //        {
-    //            src = src * 10;
-    //            decPoint++;
-    //        }
+            while (src - (long)src > 0)
+            {
+                src = src * 10;
+                decPoint++;
+            }
 
-    //        int totalDigits = 0;
+            long totalDigits = 0;
 
-    //        while (src > 0)
-    //        {
-    //            int d = (int)src % 10;
-    //            dst = dst * 10 + d;
-    //            src = src / 10;
-    //            totalDigits++;
-    //        }
+            while (src > 0)
+            {
+                long d = (long)src % 10;
+                dst = dst * 10 + d;
+                src = src / 10;
+                totalDigits++;
+            }
 
-    //        if (decPoint > 0)
-    //        {
-    //            int reversedDecPoint = totalDigits - decPoint;
-    //            for (int i = 0; i < reversedDecPoint; i++) dst = dst / 10;
-    //        }
+            if (decPoint > 0)
+            {
+                long reversedDecPoint = totalDigits - decPoint;
+                for (int i = 0; i < reversedDecPoint; i++) dst = dst / 10;
+            }
 
-    //        return dst;
-    //    }
+            return dst;
+        }
 
 
-    //    static bool IsPalindrome(int num)
-    //    {
-    //        int revNumber = Reverse(num);
-    //        if (num == revNumber)
-    //        {
-    //            return true;
-    //        }
-    //        return false;
-    //    }
-    //}
+        static bool IsPalindrome(long num)
+        {
+            long revNumber = Reverse(num);
+            if (num == revNumber)
+            {
+                return true;
+            }
+            return false;
+        }
+
 
         static void Main(string[] args)
         {
@@ -141,12 +141,12 @@ namespace PalindromApp
             
             string phrase;
             phrase = "Madam, I'm Adam";
-          
+            Console.WriteLine("----------------------------------------------");
             Console.WriteLine($"Phrase: '{phrase}' is Palindrome: {IsPalindrome(phrase)}");
-
+            Console.WriteLine("----------------------------------------------");
             phrase = "Madam, I am Adam";
             Console.WriteLine($"Phrase: '{phrase}' is Palindrome: {IsPalindrome(phrase)}");
-
+            Console.WriteLine("----------------------------------------------");
             phrase = "Refer, refer";
             Console.WriteLine($"Phrase: '{phrase}' is Palindrome: {IsPalindrome(phrase)}");
 
@@ -154,23 +154,23 @@ namespace PalindromApp
             double numeric = 123.321;
          
             Console.WriteLine("----------------------------------------------");
-            Console.WriteLine($"Phrase: '{numeric}' is Palindrome: {IsPalindrome(numeric)}");
-                     
+            Console.WriteLine($"Double number: '{numeric}' is Palindrome: {IsPalindrome(numeric)}");  
             Console.WriteLine("----------------------------------------------");
 
 
-            //int integer;
-            //integer = 11211;
-            //string integerNum;
-            //integerNum = integer.ToString();
-            //Console.WriteLine($"Phrase: '{integer}' is Palindrome: {IsPalindrome(integerNum)}");
+            int integer;
+            integer = 11211;
+            Console.WriteLine("----------------------------------------------");
+            Console.WriteLine($"Integer number: '{integer}' is Palindrome: {IsPalindrome(integer)}");
 
-            //long bigInt;
-            //bigInt = 12345654321;
-            //string bigIntNum;
-            //bigIntNum = bigInt.ToString();
+            Console.WriteLine("----------------------------------------------");
 
-            //Console.WriteLine($"Phrase: '{bigInt}' is Palindrome: {IsPalindrome(bigIntNum)}");
+            long bigInt;
+            bigInt = 12345654321;
+            Console.WriteLine("----------------------------------------------");
+            Console.WriteLine($"Long number: '{bigInt}' is Palindrome: {IsPalindrome(bigInt)}");
+
+            Console.WriteLine("----------------------------------------------");
 
             Console.ReadLine();
 
