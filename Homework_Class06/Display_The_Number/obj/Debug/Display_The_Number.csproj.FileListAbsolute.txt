@@ -1,0 +1,14 @@
+C:\Users\UFRBLR\source\repos\Homework_Class06\Display_The_Number\bin\Debug\Display_The_Number.exe.config
+C:\Users\UFRBLR\source\repos\Homework_Class06\Display_The_Number\bin\Debug\Display_The_Number.exe
+C:\Users\UFRBLR\source\repos\Homework_Class06\Display_The_Number\bin\Debug\Display_The_Number.pdb
+C:\Users\UFRBLR\source\repos\Homework_Class06\Display_The_Number\obj\Debug\Display_The_Number.csprojAssemblyReference.cache
+C:\Users\UFRBLR\source\repos\Homework_Class06\Display_The_Number\obj\Debug\Display_The_Number.csproj.CoreCompileInputs.cache
+C:\Users\UFRBLR\source\repos\Homework_Class06\Display_The_Number\obj\Debug\Display_The_Number.exe
+C:\Users\UFRBLR\source\repos\Homework_Class06\Display_The_Number\obj\Debug\Display_The_Number.pdb
+G:\Akademija\C# Advance\Class_06_LINQ\Homework_Class06\Display_The_Number\bin\Debug\Display_The_Number.exe.config
+G:\Akademija\C# Advance\Class_06_LINQ\Homework_Class06\Display_The_Number\bin\Debug\Display_The_Number.exe
+G:\Akademija\C# Advance\Class_06_LINQ\Homework_Class06\Display_The_Number\bin\Debug\Display_The_Number.pdb
+G:\Akademija\C# Advance\Class_06_LINQ\Homework_Class06\Display_The_Number\obj\Debug\Display_The_Number.csprojAssemblyReference.cache
+G:\Akademija\C# Advance\Class_06_LINQ\Homework_Class06\Display_The_Number\obj\Debug\Display_The_Number.csproj.CoreCompileInputs.cache
+G:\Akademija\C# Advance\Class_06_LINQ\Homework_Class06\Display_The_Number\obj\Debug\Display_The_Number.exe
+G:\Akademija\C# Advance\Class_06_LINQ\Homework_Class06\Display_The_Number\obj\Debug\Display_The_Number.pdb
